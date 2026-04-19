@@ -108,6 +108,7 @@ A curated list of open-source tools covering every layer of the modern data stac
 | **Evidence** | Code-driven BI (Markdown + SQL) | [evidence-dev/evidence](https://github.com/evidence-dev/evidence) |
 | **Grafana** | Observability dashboards | [grafana/grafana](https://github.com/grafana/grafana) |
 | **Rill** | Fast dashboards from data lakes | [rilldata/rill](https://github.com/rilldata/rill) |
+| **stratif.io** | Warehouse-native product analytics (funnels, retention, paths) | [stratif-io/stratif.io](https://github.com/stratif-io/stratif.io) |
 
 ## Reverse ETL / Data Activation
 
