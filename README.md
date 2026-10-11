@@ -14,6 +14,7 @@ A curated list of open-source tools covering every layer of the modern data stac
 | **Sling** | Fast data movement CLI (DB-to-DB, file-to-DB) | [slingdata-io/sling-cli](https://github.com/slingdata-io/sling-cli) |
 | **CloudQuery** | High-performance ELT framework (Go, plugin-based) | [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) |
 | **Ingestr** | CLI to copy data between any source and destination | [bruin-data/ingestr](https://github.com/bruin-data/ingestr) |
+| **OLake** | CDC and batch replication from databases and Kafka into Apache Iceberg (Go) | [datazip-inc/olake](https://github.com/datazip-inc/olake) |
 
 ## Data Warehousing / OLAP / Query Engines
 
